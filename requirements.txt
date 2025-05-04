@@ -1,0 +1,5 @@
+1. Find the APIs and research and prepare a document explaining why I chose the specific API.
+2. Once the API is fixed, understand the data format and extract the data.
+3. Clean and transform the raw data, and then load it into a database.
+4. For loading into the databases, try to research a bit a find the best database that suits the transformed data.
+5. Create a dashboard using either PowerBI or Tableau or something else.
